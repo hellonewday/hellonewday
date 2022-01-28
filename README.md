@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Maximusss.
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Javascript, Cloud Computing
-- 💞️ I’m looking to collaborate on many web projects
-- 📫 I'm kinda invisible on Github social so no way you can contact me
+- 👋 Hi, I’m Maximussss
+- 👀 I’m interested in playing games, MOBA Games, Simple Mobile games.
+- 🌱 I’m currently learning Machine Learning and applied AI in Digital Transformation.
+- 💞️ I’m looking to collaborate on Object Detection and Video Classification projects.
+- 📫 I'm kinda introvert, so please contact me by sending feedbacks to my repos, love it!
 
 
 # 💻Tech Stack
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=hellonewday&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hellonewday&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellonewday&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-![](https://komarev.com/ghpvc/?username=hellonewday&label=Visitors+Count&color=brightgreen)
 
 
 <!---
