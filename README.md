@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Maximussss
-- 👀 I’m interested in playing games, MOBA Games, Simple Mobile games.
-- 🌱 I’m currently learning Machine Learning and applied AI in Digital Transformation.
-- 💞️ I’m looking to collaborate on Object Detection and Video Classification projects.
-- 📫 I'm kinda introvert, so please contact me by sending feedbacks to my repos, love it!
+- 👋 Hung Nguyen Quoc - Max
+- 👀 First-year Master Computer Science Student - Post and Telecommunications Institute of Technology
+- 🌱 Software Engineer, Generative AI & New Initiatives, SmartOSC
+- 💞️ Research Area: Information Retrieval, LLM with RAG, Object Detection, Visual-Language Question Answering. 
+- 📫 Looking for PhD opportunities
 
 
 # 💻Tech Stack
