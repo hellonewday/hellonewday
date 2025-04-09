@@ -1,7 +1,7 @@
 - 👋 Hung Nguyen Quoc - Max
-- 👀 First-year Computer Science Master Student - Post and Telecommunications Institute of Technology
+- 👀 Final-year Computer Science Master Student - Post and Telecommunications Institute of Technology
 - 🌱 Software Engineer, Generative AI, SmartOSC
-- 💞️ Research Area: Information Retrieval, LLM, Visual Question Answering. 
+- 💞️ Research Area: Agentic AI, Information Retrieval, LLM, Visual Question Answering. 
 
 
 # 💻Tech Stack
